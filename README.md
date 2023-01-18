@@ -14,7 +14,7 @@ At this time of COVID-2019 is spreading its foot in the form of a huge epidemic 
 
 # CONCEPT USED
 
-1. Statistical testing
+1. Statistical testing --
          1. Null Hyposthesis
          2. Proportion Test
          
